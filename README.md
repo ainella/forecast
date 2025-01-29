@@ -7,16 +7,16 @@ Forecast Information: Provides weather forecasts to help users plan ahead.
 User-Friendly Interface: Designed with a focus on simplicity and ease of use.
 
 ## Installation
-Clone the Repository:  
+1. **Clone the Repository:  
 git clone https://github.com/Ainella/Weather.git
 cd Weather
 
-Install Dependencies: Ensure you have Python installed. Then, install the required Python packages: 
+2. **Install Dependencies: Ensure you have Python installed. Then, install the required Python packages: 
 pip install -r requirements.txt
 
-Configure API Access: 
+3. **Configure API Access: 
 [API]
 key = YOUR_API_KEY
 
-Run the Application:
+4. **Run the Application:
 python main.py
