@@ -1,10 +1,13 @@
 # Weather Application
-Welcome to the Weather Application! This project provides real-time weather information for various locations, offering users up-to-date data on current conditions and forecasts.
+The weather Application project provides real-time weather information for various locations, offering users up-to-date data on current conditions and forecasts.
 
-# Features
-Real-Time Weather Data: Fetches and displays current weather conditions for user-specified locations.
-Forecast Information: Provides weather forecasts to help users plan ahead.
-User-Friendly Interface: Designed with a focus on simplicity and ease of use.
+## Features
+- Real-Time Weather Data: Fetches and displays current weather conditions for user-specified locations.
+- Forecast Information: Provides weather forecasts to help users plan ahead.
+- User-Friendly Interface: Designed with a focus on simplicity and ease of use.
+
+## Prerequisites
+- 
 
 ## Installation
 1. **Clone the Repository:**
