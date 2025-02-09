@@ -1,5 +1,5 @@
 # Weather Application
-The weather Application project provides real-time weather information for various locations, offering users up-to-date data on current conditions and forecasts.
+The Weather Application project provides real-time weather information for various locations, offering users up-to-date data on current conditions and forecasts.
 
 ## Features
 - Real-Time Weather Data: Fetches and displays current weather conditions for user-specified locations.
