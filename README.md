@@ -10,10 +10,8 @@ The weather Application project provides real-time weather information for vario
 - Python
 
 ## Installation
-- Clone the Repository:
-git clone https://github.com/Ainella/Weather.git
-cd Weather
-
+- Clone the Repository
+  
 - Install Dependencies: Ensure you have Python installed. Then, install the required Python packages:
 pip install -r requirements.txt
 
