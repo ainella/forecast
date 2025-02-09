@@ -10,7 +10,7 @@ The weather Application project provides real-time weather information for vario
 - Python
 
 ## Installation
-- Clone the Repository
+- Clone the Repository:
 git clone https://github.com/Ainella/Weather.git
 cd Weather
 
@@ -21,5 +21,6 @@ pip install -r requirements.txt
 [API]
 key = YOUR_API_KEY
 
+## Usage
 - Run the Application:
 python main.py
