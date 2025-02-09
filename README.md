@@ -7,19 +7,19 @@ The weather Application project provides real-time weather information for vario
 - User-Friendly Interface: Designed with a focus on simplicity and ease of use.
 
 ## Prerequisites
-- 
+- Python
 
 ## Installation
-1. **Clone the Repository:**
+- Clone the Repository
 git clone https://github.com/Ainella/Weather.git
 cd Weather
 
-2. **Install Dependencies: Ensure you have Python installed. Then, install the required Python packages:**
+- Install Dependencies: Ensure you have Python installed. Then, install the required Python packages:
 pip install -r requirements.txt
 
-3. **Configure API Access:**
+- Configure API Access:
 [API]
 key = YOUR_API_KEY
 
-4. **Run the Application:**
+- Run the Application:
 python main.py
