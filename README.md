@@ -12,7 +12,6 @@ WeatherApp is a Kivy-based frontend application that displays real-time weather 
 ### Prerequisites
 - Python 3.x
 - Kivy
-- Required dependencies from requirements.txt
   
 Steps to Install:
 1. Clone the repository
