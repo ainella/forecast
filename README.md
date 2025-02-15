@@ -1,6 +1,8 @@
 # Weather Application
 WeatherApp is a Kivy-based frontend application that displays real-time weather information, including temperature, hourly forecasts, air conditions, and a 7-day forecast. The interface is structured using various UI elements to ensure a seamless and user-friendly experience.
 
+![Screenshot](https://github.com/ainella/forecast/blob/main/Frontend_recording.mp4).
+
 ## Features
 - City and Temperature Display: Shows current temperature, real feel, and weather description for the selected city.
 - Hourly Forecast: Displays temperature predictions for different times of the day.
