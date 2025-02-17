@@ -1,5 +1,5 @@
 # Weather Application
-WeatherApp is a Kivy-based frontend application that displays real-time weather information, including temperature, hourly forecasts, air conditions, and a 7-day forecast. The interface is structured using various UI elements to ensure a seamless and user-friendly experience. The application works across both mobile and desktop platforms. OpenWeather API is used as a backend.
+WeatherApp is a Kivy-based frontend application that displays real-time weather information, including temperature, hourly forecasts, air conditions, and a 7-day forecast. The interface is structured using various UI elements to ensure a seamless and user-friendly experience. The application works across mobile and desktop platforms. OpenWeather API is used as a backend.
 
 https://github.com/user-attachments/assets/f55770c3-3d76-447d-8982-fc9434eba1df
 
