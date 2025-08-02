@@ -177,10 +177,10 @@ class WeatherApp(App):
         return raw.capitalize()
 
     def get_hourly_array(self, int):
-        return f"{round(manager.hourly[int])}"
+        return f"{round(float(manager.hourly[int]))}"
     
     def get_weekly_array(self, int):
-        return f"{round(manager.daily[int])}"
+        return f"{round(float(manager.daily[int]))}"
 
     def create_hourly_forecast_tile(self):
         tile = DarkBlueBoxLayout(orientation='vertical', spacing=5)
