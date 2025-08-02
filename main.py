@@ -8,6 +8,7 @@ from datetime import date
 import time
 import configparser
 import urllib.request
+from dotenv import load_dotenv
 
 conn = sqlite3.connect('./database.sqlite')
 c =conn.cursor()
@@ -74,8 +75,8 @@ City_Name = 'Warsaw'
 Units = 'metric'
 ### end ###
 
-
-API_KEY = "bd8309ef1a491e6287c931d835e4bacf"
+load_dotenv()
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
 def get_time_date():
     t = time.localtime() ### gets local time 
