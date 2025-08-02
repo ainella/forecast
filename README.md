@@ -14,13 +14,33 @@ https://github.com/user-attachments/assets/f55770c3-3d76-447d-8982-fc9434eba1df
 ## Installation
 
 ### Prerequisites
-- Python 3.x
-- Kivy
+- Python 3.13
   
 Steps to Install:
-1. Clone the repository
-2. pip install -r requirements.txt
-3. Run the application: python frontend_weather.py
+1. Clone the repository:
+
+```shell
+git clone git@github.com:ainella/forecast.git
+```
+
+2. Create venv
+
+```shell
+python -m venv .venv
+```
+
+3. Install packages
+
+```shell
+pip install -r requirements.txt
+```
+
+4. Run the application
+
+```shell
+python weather.py
+```
+
 
 ## Usage
 Running the Application
