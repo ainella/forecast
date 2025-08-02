@@ -76,7 +76,8 @@ Units = 'metric'
 ### end ###
 
 load_dotenv()
-API_KEY = os.getenv("OPENWEATHER_API_KEY")
+PLACEHOLDER_API_KEY="bd8309ef1a491e6287c931d835e4bacf"
+API_KEY = os.getenv("OPENWEATHER_API_KEY") or PLACEHOLDER_API_KEY
 
 def get_time_date():
     t = time.localtime() ### gets local time 

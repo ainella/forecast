@@ -35,7 +35,15 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-4. Run the application
+4. Update **OPENWEATHER_API_KEY** to a key you get from
+https://openweathermap.org/api. If the key is not provided,
+limited data will be shown.
+
+```shell
+OPENWEATHER_API_KEY=api_key_from_openweather
+```
+
+5. Run the application
 
 ```shell
 python weather.py
